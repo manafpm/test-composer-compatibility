@@ -1,7 +1,7 @@
 {
     "name": "manafpm/test-composer-compatibility",
     "description": "Testing composer compatibility issues with packagist",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
